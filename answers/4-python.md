@@ -82,9 +82,12 @@
 
 리스트는 mutable(변경 가능), 튜플은 immutable(변경 불가능)이라는 특징을 가지고 있다. 따라서 리스트는 선언 후에도 값에 대한 변경, 삭제가 가능하지만, 튜플은 선언 후에 값을 변경하거나 삭제하는 것이 불가능하다. 또한 리스트는 튜플보다 느리다는 단점을 가지고 있으며, 하나의 튜플/리스트에 다른 타입의 값을 함께 저장할 수 있다는 공통점이 있다. 리스트는 대괄호 `[ ]`를, 튜플은 소괄호 `( )`를 사용해서 나타낸다.
 
+
+
 #### References
 
 - [[Python] 튜플(tuple), 리스트(list), 셋(set), 딕셔너리(dict) 비교 - specialscene](https://specialscene.tistory.com/142)
+- [예제 코드](../code/python/01_between_list_and_tuples.ipynb)
 
 ---
 
@@ -120,6 +123,7 @@
 - [python 리스트, 튜플, 딕셔너리 비교 - bskyvision](https://bskyvision.com/854)
 - [Python 일급객체(FIRST-CLASS CITIZEN)- 홍찬기](https://hckcksrl.medium.com/python-%EC%9D%BC%EA%B8%89%EA%B0%9D%EC%B2%B4-1735746a8229)
 - [인터프리터 언어와 컴파일 언어의 차이 - jhkang-dev](https://jhkang-tech.tistory.com/136)
+- [예제 코드](../code/python/02_features_of_Python.ipynb)
 
 ---
 
